@@ -2,7 +2,7 @@
 
 DotNetCore-Cognitive-Sample 是 .Net Core 编写的 Azure 认知服务示例代码集。
 
-##CustomVision_Prediction_Sample
+## CustomVision_Prediction_Sample
 
 CustomVision_Prediction_Sample 是 Azure 自定义影像服务示例代码。
 
