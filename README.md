@@ -17,11 +17,11 @@ CustomVision_Prediction_Sample 是 Azure 自定义影像服务示例代码。
  - 支持 结果 Log 的输出（用分号做了分割，易于导入Excel或数据库）
 
 运行
-、、、
+```
 dotnet CustomVision_Prediction_Sample.dll key url
-、、、
+```
 或
-、、、
+```
 dotnet CustomVision_Prediction_Sample
-、、、
+```
 启动后输入 key url 图片目录地址
