@@ -18,13 +18,13 @@ CustomVision_Prediction_Sample 是 Azure 自定义影像服务示例代码。
 
 运行
 ```
-dotnet CustomVision_Prediction_Sample.dll key url
-dotnet CustomVision_Prediction_Sample.dll a3ab69857dbe48818e71a6aa7267a6f6 https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/421ea876-3749-4972-9d2b-95467ecfff83/image?iterationId=921dc745-8b8b-4ccd-bce4-1b47312c0baa
+dotnet CustomVision.dll key url
+dotnet CustomVision.dll a3ab69857dbe48818e71a6aa7267a6f6 https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/421ea876-3749-4972-9d2b-95467ecfff83/image?iterationId=921dc745-8b8b-4ccd-bce4-1b47312c0baa
 Enter image file path: d:\images
 ```
 或
 ```
-dotnet CustomVision_Prediction_Sample
+dotnet CustomVision.dll
 Enter key: a3ab69857dbe48818e71a6aa7267a6f6
 Enter url: https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/421ea876-3749-4972-9d2b-95467ecfff83/image?iterationId=921dc745-8b8b-4ccd-bce4-1b47312c0baa
 Enter image file path: d:\images
