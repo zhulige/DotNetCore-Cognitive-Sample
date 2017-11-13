@@ -1,0 +1,11 @@
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\bin\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.deps.json
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\bin\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.runtimeconfig.json
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\bin\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.runtimeconfig.dev.json
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\bin\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.dll
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.csproj.CoreCompileInputs.cache
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.AssemblyInfoInputs.cache
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.AssemblyInfo.cs
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\bin\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.pdb
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.dll
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.pdb
+D:\Zhulige-Github\DotNetCore-Cognitive-Sample\CustomVision_Prediction_Sample\obj\Debug\netcoreapp2.0\CustomVision_Prediction_Sample.csprojResolveAssemblyReference.cache
