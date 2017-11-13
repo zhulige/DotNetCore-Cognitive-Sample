@@ -16,6 +16,8 @@ CustomVision_Prediction_Sample 是 Azure 自定义影像服务示例代码。
  - 支持 图片目录 的传入
  - 支持 结果 Log 的输出（用分号做了分割，易于导入Excel或数据库）
 
+打包下载地址：https://github.com/zhulige/DotNetCore-Cognitive-Sample/raw/master/CustomVision_Prediction_Sample/CustomVision.rar
+
 运行
 ```
 dotnet CustomVision.dll key url
